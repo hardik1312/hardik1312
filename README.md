@@ -1,12 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hardik</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Ahmedabad, India.</h3>
+<h3 align="center">I'm a passionate Python/Django Developer from Ahmedabad, India.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Python Development.**
+- 🌱 I’m currently learning **Python/Django Development.**
 
 - 👨‍💻 All of my projects are available on **[My GitHub Profile](https://github.com/hardik1312/hardik1312)**
 
@@ -22,6 +22,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+    <a href="https://www.djangoproject.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
 </p>
 
 <br/>
